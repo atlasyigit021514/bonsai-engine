@@ -6,6 +6,8 @@ The engine is the [PrismML llama.cpp fork](https://github.com/PrismML-Eng/llama.
 
 > Hardware-tuned and measured on an **RTX 3070 (8 GB, sm_86)** — Windows, CUDA 12.x driver.
 
+> 🧠 **Crafted end-to-end by an AI agent — DeepSeek V4 Flash.**
+
 ---
 
 ## Features
