@@ -1,0 +1,14 @@
+# binaries & model are fetched by scripts (too large for git)
+*.gguf
+bin/
+bin124/
+
+# local runtime artifacts
+server.log
+server.err
+*.log
+
+# python
+__pycache__/
+*.pyc
+.venv/
